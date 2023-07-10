@@ -7,7 +7,7 @@ function Home() {
       <section className="flex flex-col gap-6">
         <Text variant="h1">🤖 CEAI OpenAI GPT-3 text model usage example</Text>
         <Text className="text-zinc-600">
-          In this example, a simple chat bot is implemented using Next.js, API
+          Hola hola 👋 In this example, a simple chat bot is implemented using Next.js, API
           Routes, and OpenAI API.
         </Text>
       </section>
