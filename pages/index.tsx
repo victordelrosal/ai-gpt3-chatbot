@@ -7,7 +7,7 @@ function Home() {
       <section className="flex flex-col gap-6">
         <Text variant="h1">🤖 robo-ta</Text>
         <Text className="text-zinc-600">
-          robo teaching assistant (robo-ta) is an ai-generated member of faculty to help lecturers focus on the human side of lecturing.
+          robo teaching assistant (robo-ta) is an AI-generated member of faculty to help lecturers focus on the human side of lecturing.
         </Text>
       </section>
 
