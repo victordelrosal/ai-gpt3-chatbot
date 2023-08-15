@@ -5,7 +5,7 @@ function Home() {
   return (
     <Page className="flex flex-col gap-12">
       <section className="flex flex-col gap-6">
-        <Text variant="h1">🤖 robo-tax</Text>
+        <Text variant="h1">🤖 robo-ta hex</Text>
         <Text className="text-zinc-600">
           hey! this is a robo teaching assistant (robo-ta) is an AI-generated member of faculty to help lecturers focus on the human side of lecturing.
         </Text>
